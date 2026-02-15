@@ -2,7 +2,7 @@
 
 Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive webpage to surprise your loved one! This project creates a romantic digital experience where users are prompted with a question: **"Will You Be My Valentine?"** and are given an engaging and fun way to respond.
 
-🌐 **Live Demo**: You can check out the live version of this project at [junayed-hasan.github.io/valentines_blossoming_flower](https://junayed-hasan.github.io/valentines_blossoming_flower/). Easily host it on **GitHub Pages** and send the link to your loved one for a sweet surprise! 💕
+🌐 **Live Demo**: You can check out the live version of this project at https://friendly-moxie-5aa0d7.netlify.app/. Easily host it on **GitHub Pages** and send the link to your loved one for a sweet surprise! 💕
 
 ## ✨ Features
 - A heartwarming Valentine’s Day invitation with animated responses.
