@@ -80,5 +80,5 @@ These projects were customized and creatively merged to create a unique and inte
 If you like this project, consider **starring** ⭐ this repository to spread the love and appreciation!
 
 ---
-💖 Made with love by [Mohammad Junayed Hasan](https://github.com/junayed-hasan).
+💖 Made with love by Tharun.
 
